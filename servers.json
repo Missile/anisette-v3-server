@@ -4,12 +4,12 @@
             "name": "Missile",
             "address": "https://missile-ani.onrender.com"
         },
-        {
+		{
             "name": "SideStore",
             "address": "https://ani.sidestore.io"
         },
         {
-            "name": "Sidestore (.zip)",
+            "name": "SideStore (.zip)",
             "address": "https://ani.sidestore.zip"
         },
         {
@@ -35,6 +35,14 @@
         {
             "name": "Stossy11",
             "address": "https://anisette.stossy11.com"
+        },
+        {
+            "name": "SeasiDev",
+            "address": "https://anisette.seasi.dev"
+        },
+        {
+            "name": "SteX",
+            "address": "https://ani.xu30.top"
         }
     ]
 }
